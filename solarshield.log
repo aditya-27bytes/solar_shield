@@ -1,0 +1,1028 @@
+[2025-06-16 12:21:29.847991600 UTC] CME: 2025-06-15T14:44Z
+
+## Community Coordinated Modeling Center Database Of Notifications, Knowledge, Information ( CCMC DONKI )
+## Message Type: Space Weather Notification - CME update (Juice, STEREO A, OSIRIS-APEX, Parker Solar Probe, Missions Near Earth)
+##
+## Message Issue Date: 2025-06-15T14:44:47Z
+## Message ID: 20250615-AL-002
+##
+## Disclaimer: NOAA's Space Weather Prediction Center is the United States Government official source for space weather forecasts. This "Experimental Research Information" consists of preliminary NASA research products and should be interpreted and used accordingly.
+
+
+## Summary:
+
+Update/additional details on CME with ID 2025-06-15T08:12:00-CME-001 (see previous notification 20250615-AL-001). 
+
+This CME event (2025-06-15T08:12:00-CME-001) is associated with M2.2 flare with ID 2025-06-15T07:45:00-FLR-001 from Active Region 14105 (S15W70) which peaked at 2025-06-15T07:56Z.
+
+
+SCORE CME typification system:
+S-type: CMEs with speeds less than 500 km/s
+C-type: Common 500-999 km/s
+O-type: Occasional 1000-1999 km/s
+R-type: Rare 2000-2999 km/s
+ER-type: Extremely Rare >3000 km/s
+
+
+
+
+[2025-06-16 12:21:31.140303 UTC] CME: 2025-06-15T14:33Z
+
+## Community Coordinated Modeling Center Database Of Notifications, Knowledge, Information ( CCMC DONKI )
+## Message Type: Space Weather Notification - CME (Juice, STEREO A, OSIRIS-APEX, Parker Solar Probe, Missions Near Earth)
+##
+## Message Issue Date: 2025-06-15T14:33:18Z
+## Message ID: 20250615-AL-001
+##
+## Disclaimer: NOAA's Space Weather Prediction Center is the United States Government official source for space weather forecasts. This "Experimental Research Information" consists of preliminary NASA research products and should be interpreted and used accordingly.
+
+
+## Summary:
+
+C-type CME detected by STEREO A / GOES / SOHO. 
+
+Start time of the event: 2025-06-15T08:12Z.
+
+Estimated speed: ~806 km/s.
+
+Estimated opening half-angle: 40 deg.
+
+Direction (lon./lat.): 57/-4 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-15T08:12:00-CME-001
+
+Based on preliminary analysis by the Moon to Mars Space Weather Analysis Office and heliospheric modeling carried out at NASA Community Coordinated Modeling Center, it is estimated that this CME may affect Juice, STEREO A, OSIRIS-APEX (glancing blow), and Parker Solar Probe (glancing blow).  The leading edge of the CME will reach Juice at 2025-06-17T14:29Z, STEREO A at 2025-06-17T06:56Z, and its flank may reach OSIRIS-APEX at 2025-06-17T03:00Z, and Parker Solar Probe at 2025-06-15T18:00Z (plus minus 7 hours). 
+
+The simulation also indicates that the CME might have a cursory glancing blow at NASA missions near Earth. Simulations indicate that the flank of the CME may reach NASA missions near Earth at about 2025-06-18T00:00Z (plus minus 7 hours). The roughly estimated expected range of the maximum Kp index is 3-6 (below minor to moderate).
+   
+  
+Links to the movies of the modeled event (includes CME: 2025-06-15T08:12:00-CME-001):
+
+http://iswa.gsfc.nasa.gov/downloads/20250615_124300_2.0_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250615_124300_2.0_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250615_124300_2.0_anim.tim-den-Stereo_A.gif
+http://iswa.gsfc.nasa.gov/downloads/20250615_124300_2.0_anim.tim-vel-Stereo_A.gif
+http://iswa.gsfc.nasa.gov/downloads/20250615_124300_2.0_ENLIL_CONE_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250615_124300_2.0_ENLIL_CONE_STA_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250615_124300_2.0_ENLIL_CONE_Juice_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250615_124300_2.0_ENLIL_CONE_Osiris_timeline.gif
+
+
+## Notes: 
+
+
+SCORE CME typification system:
+S-type: CMEs with speeds less than 500 km/s
+C-type: Common 500-999 km/s
+O-type: Occasional 1000-1999 km/s
+R-type: Rare 2000-2999 km/s
+ER-type: Extremely Rare >3000 km/s
+
+
+
+
+[2025-06-16 12:21:32.426577300 UTC] CME: 2025-06-14T02:38Z
+
+## Community Coordinated Modeling Center Database Of Notifications, Knowledge, Information ( CCMC DONKI )
+## Message Type: Space Weather Notification - CME (Parker Solar Probe)
+##
+## Message Issue Date: 2025-06-14T02:38:49Z
+## Message ID: 20250614-AL-001
+##
+## Disclaimer: NOAA's Space Weather Prediction Center is the United States Government official source for space weather forecasts. This "Experimental Research Information" consists of preliminary NASA research products and should be interpreted and used accordingly.
+
+
+## Summary:
+
+C-type CME detected by STEREO A / GOES / SOHO. 
+
+Start time of the event: 2025-06-13T20:00Z.
+
+Estimated speed: ~715 km/s.
+
+Estimated opening half-angle: 11 deg.
+
+Direction (lon./lat.): 105/-12 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-13T20:00:00-CME-001
+
+Based on preliminary analysis by the Moon to Mars Space Weather Analysis Office and heliospheric modeling carried out at NASA Community Coordinated Modeling Center, it is estimated that the CME may give a glancing blow to Parker Solar Probe. The flank of the CME may reach Parker Solar Probe at around 2025-06-15T00:00Z (plus minus 7 hours). 
+
+Links to the movies of the modeled event (includes CME: 2025-06-13T20:00:00-CME-001):
+
+http://iswa.gsfc.nasa.gov/downloads/20250614_005000_2.0_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250614_005000_2.0_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250614_005000_2.0_ENLIL_CONE_timeline.gif
+
+
+## Notes: 
+Parker Solar Probe is not appearing on these simulation animations because the perihelion pass places it inside the simulations inner boundary. Because of this the Parker Solar Probe arrival time in this notification is an approximate estimate. 
+
+SCORE CME typification system:
+S-type: CMEs with speeds less than 500 km/s
+C-type: Common 500-999 km/s
+O-type: Occasional 1000-1999 km/s
+R-type: Rare 2000-2999 km/s
+ER-type: Extremely Rare >3000 km/s
+
+
+
+
+[2025-06-16 12:21:34.036266400 UTC] CME: 2025-06-12T12:54Z
+
+## Community Coordinated Modeling Center Database Of Notifications, Knowledge, Information ( CCMC DONKI )
+## Message Type: Space Weather Notification - CME (Mars)
+##
+## Message Issue Date: 2025-06-12T12:54:02Z
+## Message ID: 20250612-AL-003
+##
+## Disclaimer: NOAA's Space Weather Prediction Center is the United States Government official source for space weather forecasts. This "Experimental Research Information" consists of preliminary NASA research products and should be interpreted and used accordingly.
+
+
+## Summary:
+
+C-type CME detected by STEREO A / GOES / SOHO. 
+
+Start time of the event: 2025-06-11T18:48Z.
+
+Estimated speed: ~686 km/s.
+
+Estimated opening half-angle: 15 deg.
+
+Direction (lon./lat.): -54/-2 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-11T18:48:00-CME-001
+
+Based on preliminary analysis by the Moon to Mars Space Weather Analysis Office and heliospheric modeling carried out at NASA Community Coordinated Modeling Center, it is estimated that the CME may impact Mars (glancing blow). The flank of the CME will reach Mars at 2025-06-16T00:00Z (plus minus 7 hours). 
+
+Links to the movies of the modeled event (includes CME: 2025-06-11T18:48:00-CME-001):
+
+http://iswa.gsfc.nasa.gov/downloads/20250611_232800_2.0_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250611_232800_2.0_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250611_232800_2.0_ENLIL_CONE_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250611_232800_2.0_ENLIL_CONE_Mars_timeline.gif
+
+
+## Notes: 
+
+
+SCORE CME typification system:
+S-type: CMEs with speeds less than 500 km/s
+C-type: Common 500-999 km/s
+O-type: Occasional 1000-1999 km/s
+R-type: Rare 2000-2999 km/s
+ER-type: Extremely Rare >3000 km/s
+
+
+
+
+[2025-06-16 12:21:35.414941800 UTC] CME: 2025-06-12T12:33Z
+
+## Community Coordinated Modeling Center Database Of Notifications, Knowledge, Information ( CCMC DONKI )
+## Message Type: Space Weather Notification - CME (Juice, STEREO A)
+##
+## Message Issue Date: 2025-06-12T12:33:40Z
+## Message ID: 20250612-AL-002
+##
+## Disclaimer: NOAA's Space Weather Prediction Center is the United States Government official source for space weather forecasts. This "Experimental Research Information" consists of preliminary NASA research products and should be interpreted and used accordingly.
+
+
+## Summary:
+
+C-type CME detected by STEREO A / GOES / SOHO. 
+
+Start time of the event: 2025-06-11T22:24Z.
+
+Estimated speed: ~991 km/s.
+
+Estimated opening half-angle: 39 deg.
+
+Direction (lon./lat.): 73/1 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-11T22:24:00-CME-001
+
+Based on preliminary analysis by the Moon to Mars Space Weather Analysis Office and heliospheric modeling carried out at NASA Community Coordinated Modeling Center, it is estimated that the CME may impact Juice and STEREO A.  The leading edge of the CME will reach Juice at 2025-06-13T19:29Z and STEREO A at 2025-06-13T23:17Z (plus minus 7 hours). 
+
+Links to the movies of the modeled event (includes CME: 2025-06-11T22:24:00-CME-001):
+
+http://iswa.gsfc.nasa.gov/downloads/20250612_021400_2.0_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250612_021400_2.0_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250612_021400_2.0_anim.tim-den-Stereo_A.gif
+http://iswa.gsfc.nasa.gov/downloads/20250612_021400_2.0_anim.tim-vel-Stereo_A.gif
+http://iswa.gsfc.nasa.gov/downloads/20250612_021400_2.0_ENLIL_CONE_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250612_021400_2.0_ENLIL_CONE_STA_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250612_021400_2.0_ENLIL_CONE_Juice_timeline.gif
+
+
+## Notes: 
+
+
+SCORE CME typification system:
+S-type: CMEs with speeds less than 500 km/s
+C-type: Common 500-999 km/s
+O-type: Occasional 1000-1999 km/s
+R-type: Rare 2000-2999 km/s
+ER-type: Extremely Rare >3000 km/s
+
+
+
+
+[2025-06-16 12:21:36.793336200 UTC] CME: 2025-06-12T02:40Z
+
+## Community Coordinated Modeling Center Database Of Notifications, Knowledge, Information ( CCMC DONKI )
+## Message Type: Space Weather Notification - CME (BepiColombo)
+##
+## Message Issue Date: 2025-06-12T02:40:31Z
+## Message ID: 20250612-AL-001
+##
+## Disclaimer: NOAA's Space Weather Prediction Center is the United States Government official source for space weather forecasts. This "Experimental Research Information" consists of preliminary NASA research products and should be interpreted and used accordingly.
+
+
+## Summary:
+
+C-type CME detected by STEREO A / GOES / SOHO. 
+
+Start time of the event: 2025-06-11T15:36Z.
+
+Estimated speed: ~608 km/s.
+
+Estimated opening half-angle: 16 deg.
+
+Direction (lon./lat.): -97/23 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-11T15:36:00-CME-001
+
+Based on preliminary analysis by the Moon to Mars Space Weather Analysis Office and heliospheric modeling carried out at NASA Community Coordinated Modeling Center, it is estimated that the CME may impact BepiColombo (glancing blow).  The flank of the CME may reach BepiColombo at 2025-06-12T15:00Z (plus minus 7 hours). 
+
+Links to the movies of the modeled event (includes CME: 2025-06-11T15:36:00-CME-001):
+
+http://iswa.gsfc.nasa.gov/downloads/20250611_214300_2.0_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250611_214300_2.0_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250611_214300_2.0_ENLIL_CONE_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250611_214300_2.0_ENLIL_CONE_Bepi_timeline.gif
+
+
+## Notes: 
+
+
+SCORE CME typification system:
+S-type: CMEs with speeds less than 500 km/s
+C-type: Common 500-999 km/s
+O-type: Occasional 1000-1999 km/s
+R-type: Rare 2000-2999 km/s
+ER-type: Extremely Rare >3000 km/s
+
+
+
+
+[2025-06-16 12:21:38.066422500 UTC] CME: 2025-06-11T19:18Z
+
+## Community Coordinated Modeling Center Database Of Notifications, Knowledge, Information ( CCMC DONKI )
+## Message Type: Space Weather Notification - CMEs correction (Lucy, Europa Clipper, BepiColombo, Mars)
+##
+## Message Issue Date: 2025-06-11T19:18:59Z
+## Message ID: 20250611-AL-004
+##
+## Disclaimer: NOAA's Space Weather Prediction Center is the United States Government official source for space weather forecasts. This "Experimental Research Information" consists of preliminary NASA research products and should be interpreted and used accordingly.
+
+
+## Summary:
+
+Correction on CMEs with IDs 2025-06-10T15:12:00-CME-001 and 2025-06-10T19:00:00-CME-001 (see previous notifications 20250611-AL-002 and 20250611-AL-003). Based on preliminary analysis by the Moon to Mars Space Weather Analysis Office and heliospheric modeling carried out at NASA Community Coordinated Modeling Center, it is estimated that the CMEs may impact Lucy (minor impact). The combined leading edge of the CMEs may reach Lucy at 2025-06-17T14:00Z (plus minus 7 hours).
+
+Previous simulations also estimate that the CMEs may affect Europa Clipper (minor impact), BepiColombo and Mars (minor impact). The combined leading edge of the CMEs may reach Europa Clipper at 2025-06-16T12:00Z, BepiColombo at 2025-06-11T16:51Z and Mars at 2025-06-15T00:00Z (plus minus 7 hours). 
+
+CME parameters are (C-type):
+
+1: Start time of the event: 2025-06-10T15:12Z.
+
+Estimated speed: ~771 km/s.
+
+Estimated opening half-angle: 22 deg.
+
+Direction (lon./lat.): -80/31 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-10T15:12:00-CME-001
+
+
+2: Start time of the event: 2025-06-10T19:00Z.
+
+Estimated speed: ~685 km/s.
+
+Estimated opening half-angle: 29 deg.
+
+Direction (lon./lat.): -85/25 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-10T19:00:00-CME-001
+
+
+Links to the movies of the modeled event (includes CMEs: 2025-06-10T15:12:00-CME-001, 2025-06-10T19:00:00-CME-001):
+
+(a) 2 AU outer boundary
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_2.0_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_2.0_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_2.0_ENLIL_CONE_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_2.0_ENLIL_CONE_Bepi_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_2.0_ENLIL_CONE_Mars_timeline.gif
+
+(b) 5.5 AU outer boundary
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_5.5_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_5.5_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_5.5_ENLIL_CONE_Lucy_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_5.5_ENLIL_CONE_EuropaClippr_timeline.gif
+
+
+## Notes: 
+
+This notification includes the mention of a minor impact to Lucy, which was excluded from previous notifications 20250611-AL-002 and 20250611-AL-003.
+
+
+SCORE CME typification system:
+S-type: CMEs with speeds less than 500 km/s
+C-type: Common 500-999 km/s
+O-type: Occasional 1000-1999 km/s
+R-type: Rare 2000-2999 km/s
+ER-type: Extremely Rare >3000 km/s
+
+
+
+
+[2025-06-16 12:21:39.391237600 UTC] CME: 2025-06-11T12:31Z
+
+## Community Coordinated Modeling Center Database Of Notifications, Knowledge, Information ( CCMC DONKI )
+## Message Type: Space Weather Notification - CMEs update (Europa Clipper, BepiColombo, Mars)
+##
+## Message Issue Date: 2025-06-11T12:31:36Z
+## Message ID: 20250611-AL-003
+##
+## Disclaimer: NOAA's Space Weather Prediction Center is the United States Government official source for space weather forecasts. This "Experimental Research Information" consists of preliminary NASA research products and should be interpreted and used accordingly.
+
+
+## Summary:
+
+Update on CMEs with IDs 2025-06-10T15:12:00-CME-001 and 2025-06-10T19:00:00-CME-001 (see previous notification 20250611-AL-002).  Based on preliminary analysis by the Moon to Mars Space Weather Analysis Office and heliospheric modeling carried out at NASA Community Coordinated Modeling Center, it is estimated that the CMEs may impact Europa Clipper (minor impact). The combined leading edge of the CMEs may reach Europa Clipper at 2025-06-16T12:00Z (plus minus 7 hours).
+
+Previous simulations also estimate that the CMEs may affect BepiColombo and Mars.  The combined leading edge of the CMEs may reach BepiColombo at 2025-06-11T16:51Z and Mars at 2025-06-15T00:00Z (plus minus 7 hours). 
+
+CME parameters are (C-type):
+
+1: Start time of the event: 2025-06-10T15:12Z.
+
+Estimated speed: ~771 km/s.
+
+Estimated opening half-angle: 22 deg.
+
+Direction (lon./lat.): -80/31 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-10T15:12:00-CME-001
+
+
+2: Start time of the event: 2025-06-10T19:00Z.
+
+Estimated speed: ~685 km/s.
+
+Estimated opening half-angle: 29 deg.
+
+Direction (lon./lat.): -85/25 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-10T19:00:00-CME-001
+
+
+Links to the movies of the modeled event (includes CMEs: 2025-06-10T15:12:00-CME-001, 2025-06-10T19:00:00-CME-001):
+
+(a) 2 AU outer boundary
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_2.0_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_2.0_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_2.0_ENLIL_CONE_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_2.0_ENLIL_CONE_Bepi_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_2.0_ENLIL_CONE_Mars_timeline.gif
+
+(b) 5.5 AU outer boundary
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_5.5_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_5.5_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_5.5_ENLIL_CONE_EuropaClippr_timeline.gif
+
+
+## Notes: 
+
+SCORE CME typification system:
+S-type: CMEs with speeds less than 500 km/s
+C-type: Common 500-999 km/s
+O-type: Occasional 1000-1999 km/s
+R-type: Rare 2000-2999 km/s
+ER-type: Extremely Rare >3000 km/s
+
+
+
+
+[2025-06-16 12:21:40.748942600 UTC] CME: 2025-06-11T02:33Z
+
+## Community Coordinated Modeling Center Database Of Notifications, Knowledge, Information ( CCMC DONKI )
+## Message Type: Space Weather Notification - CMEs (BepiColombo, Mars)
+##
+## Message Issue Date: 2025-06-11T02:33:04Z
+## Message ID: 20250611-AL-002
+##
+## Disclaimer: NOAA's Space Weather Prediction Center is the United States Government official source for space weather forecasts. This "Experimental Research Information" consists of preliminary NASA research products and should be interpreted and used accordingly.
+
+
+## Summary:
+
+Multiple CMEs have been detected as follows:
+1: C-type CME detected by STEREO A / GOES / SOHO. 
+
+Start time of the event: 2025-06-10T15:12Z.
+
+Estimated speed: ~771 km/s.
+
+Estimated opening half-angle: 22 deg.
+
+Direction (lon./lat.): -80/31 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-10T15:12:00-CME-001
+
+2: C-type CME detected by STEREO A / GOES / SOHO. 
+
+Start time of the event: 2025-06-10T19:00Z.
+
+Estimated speed: ~685 km/s.
+
+Estimated opening half-angle: 29 deg.
+
+Direction (lon./lat.): -85/25 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-10T19:00:00-CME-001
+
+Based on preliminary analysis by the Moon to Mars Space Weather Analysis Office and heliospheric modeling carried out at NASA Community Coordinated Modeling Center, it is estimated that the CMEs may impact BepiColombo and Mars (minor impact). The leading edge of the CMEs will reach BepiColombo at 2025-06-11T16:51Z and Mars at 2025-06-15T00:00Z (plus minus 7 hours). 
+
+
+Links to the movies of the modeled event (includes CMEs: 2025-06-10T15:12:00-CME-001, 2025-06-10T19:00:00-CME-001):
+
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_2.0_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_2.0_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_2.0_ENLIL_CONE_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_2.0_ENLIL_CONE_Bepi_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_193300_2.0_ENLIL_CONE_Mars_timeline.gif
+
+
+## Notes: 
+
+
+SCORE CME typification system:
+S-type: CMEs with speeds less than 500 km/s
+C-type: Common 500-999 km/s
+O-type: Occasional 1000-1999 km/s
+R-type: Rare 2000-2999 km/s
+ER-type: Extremely Rare >3000 km/s
+
+
+
+
+[2025-06-16 12:21:42.096030700 UTC] CME: 2025-06-11T01:21Z
+
+## Community Coordinated Modeling Center Database Of Notifications, Knowledge, Information ( CCMC DONKI )
+## Message Type: Space Weather Notification - CMEs update (Europa Clipper, BepiColombo, Mars)
+##
+## Message Issue Date: 2025-06-11T01:21:49Z
+## Message ID: 20250611-AL-001
+##
+## Disclaimer: NOAA's Space Weather Prediction Center is the United States Government official source for space weather forecasts. This "Experimental Research Information" consists of preliminary NASA research products and should be interpreted and used accordingly.
+
+
+## Summary:
+
+Update on CMEs with IDs 2025-06-09T15:12:00-CME-001 and 2025-06-09T21:00:00-CME-001 (see previous notification 20250610-AL-001). Based on preliminary analysis by the Moon to Mars Space Weather Analysis Office and heliospheric modeling carried out at NASA Community Coordinated Modeling Center, it is estimated that the CMEs have little or no impact on Juno or Dawn.
+
+Previous simulations also estimate that the CMEs may affect Europa Clipper (glancing blow), BepiColombo (glancing blow) and Mars (glancing blow). The flank of the CMEs will reach Europa Clipper at 2025-06-16T06:00Z, BepiColombo at 2025-06-10T09:00Z and Mars at 2025-06-14T21:00Z (plus minus 7 hours). 
+
+CME parameters are (C-type):
+
+1: Start time of the event: 2025-06-09T15:12Z.
+
+Estimated speed: ~948 km/s.
+
+Estimated opening half-angle: 22 deg.
+
+Direction (lon./lat.): -95/36 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-09T15:12:00-CME-001
+
+
+2: Start time of the event: 2025-06-09T21:00Z.
+
+Estimated speed: ~615 km/s.
+
+Estimated opening half-angle: 16 deg.
+
+Direction (lon./lat.): -90/27 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-09T21:00:00-CME-001
+
+
+Links to the movies of the modeled event (includes CMEs: 2025-06-09T15:12:00-CME-001, 2025-06-09T21:00:00-CME-001):
+
+(a) 2 AU outer boundary
+http://iswa.gsfc.nasa.gov/downloads/20250609_185700_2.0_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250609_185700_2.0_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250609_185700_2.0_ENLIL_CONE_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250609_185700_2.0_ENLIL_CONE_Bepi_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250609_185700_2.0_ENLIL_CONE_Mars_timeline.gif
+
+(b) 5.5 AU outer boundary
+http://iswa.gsfc.nasa.gov/downloads/20250609_185800_5.5_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250609_185800_5.5_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250609_185800_5.5_ENLIL_CONE_EuropaClippr_timeline.gif
+
+
+## Notes: 
+
+SCORE CME typification system:
+S-type: CMEs with speeds less than 500 km/s
+C-type: Common 500-999 km/s
+O-type: Occasional 1000-1999 km/s
+R-type: Rare 2000-2999 km/s
+ER-type: Extremely Rare >3000 km/s
+
+
+
+
+[2025-06-16 12:21:43.457887 UTC] CME: 2025-06-10T20:38Z
+
+## Community Coordinated Modeling Center Database Of Notifications, Knowledge, Information ( CCMC DONKI )
+## Message Type: Space Weather Notification - CMEs (Lucy, Europa Clipper, BepiColombo, Mars)
+##
+## Message Issue Date: 2025-06-10T20:38:02Z
+## Message ID: 20250610-AL-003
+##
+## Disclaimer: NOAA's Space Weather Prediction Center is the United States Government official source for space weather forecasts. This "Experimental Research Information" consists of preliminary NASA research products and should be interpreted and used accordingly.
+
+
+## Summary:
+
+Multiple CMEs have been detected as follows:
+1: C-type CME detected by STEREO A / GOES / SOHO. 
+
+Start time of the event: 2025-06-10T00:36Z.
+
+Estimated speed: ~543 km/s.
+
+Estimated opening half-angle: 20 deg.
+
+Direction (lon./lat.): -90/34 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-10T00:36:00-CME-001
+
+2: C-type CME detected by STEREO A / GOES / SOHO. 
+
+Start time of the event: 2025-06-10T05:00Z.
+
+Estimated speed: ~983 km/s.
+
+Estimated opening half-angle: 12 deg.
+
+Direction (lon./lat.): -80/27 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-10T05:00:00-CME-001
+
+3: C-type CME detected by STEREO A / GOES / SOHO. 
+
+Start time of the event: 2025-06-10T05:48Z.
+
+Estimated speed: ~697 km/s.
+
+Estimated opening half-angle: 24 deg.
+
+Direction (lon./lat.): -89/26 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-10T05:48:00-CME-001
+
+4: C-type CME detected by STEREO A / GOES / SOHO. 
+
+Start time of the event: 2025-06-10T11:48Z.
+
+Estimated speed: ~667 km/s.
+
+Estimated opening half-angle: 18 deg.
+
+Direction (lon./lat.): -80/20 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-10T11:48:00-CME-001
+
+Based on preliminary analysis by the Moon to Mars Space Weather Analysis Office and heliospheric modeling carried out at NASA Community Coordinated Modeling Center, it is estimated that the CMEs may impact Lucy (glancing blow), Europa Clipper (glancing blow), BepiColombo (glancing blow), and Mars (glancing blow). The flank of the CMEs will reach Lucy at 2025-06-17T08:00Z, Europa Clipper at 2025-06-16T02:00Z, BepiColombo at 2025-06-11T01:00Z, and Mars at 2025-06-14T14:00Z (plus minus 7 hours). 
+
+
+Links to the movies of the modeled event (includes CMEs: 2025-06-10T00:36:00-CME-001, 2025-06-10T05:00:00-CME-001, 2025-06-10T05:48:00-CME-001, 2025-06-10T11:48:00-CME-001):
+
+(a) 2 AU outer boundary
+http://iswa.gsfc.nasa.gov/downloads/20250610_060200_2.0_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_060200_2.0_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_060200_2.0_ENLIL_CONE_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_060200_2.0_ENLIL_CONE_Bepi_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_060200_2.0_ENLIL_CONE_Mars_timeline.gif
+
+(b) 5.5 AU outer boundary
+http://iswa.gsfc.nasa.gov/downloads/20250610_060200_5.5_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_060200_5.5_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_060200_5.5_ENLIL_CONE_Lucy_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_060200_5.5_ENLIL_CONE_EuropaClippr_timeline.gif
+
+
+## Notes: 
+
+
+SCORE CME typification system:
+S-type: CMEs with speeds less than 500 km/s
+C-type: Common 500-999 km/s
+O-type: Occasional 1000-1999 km/s
+R-type: Rare 2000-2999 km/s
+ER-type: Extremely Rare >3000 km/s
+
+
+
+
+[2025-06-16 12:21:44.743132100 UTC] CME: 2025-06-10T18:48Z
+
+## Community Coordinated Modeling Center Database Of Notifications, Knowledge, Information ( CCMC DONKI )
+## Message Type: Space Weather Notification - CME (Europa Clipper, BepiColombo)
+##
+## Message Issue Date: 2025-06-10T18:48:50Z
+## Message ID: 20250610-AL-002
+##
+## Disclaimer: NOAA's Space Weather Prediction Center is the United States Government official source for space weather forecasts. This "Experimental Research Information" consists of preliminary NASA research products and should be interpreted and used accordingly.
+
+
+## Summary:
+
+C-type CME detected by STEREO A / GOES / SOHO. 
+
+Start time of the event: 2025-06-10T06:36Z.
+
+Estimated speed: ~611 km/s.
+
+Estimated opening half-angle: 27 deg.
+
+Direction (lon./lat.): -136/29 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-10T06:36:00-CME-001
+
+Based on preliminary analysis by the Moon to Mars Space Weather Analysis Office and heliospheric modeling carried out at NASA Community Coordinated Modeling Center, it is estimated that the CME may impact Europa Clipper (glancing blow) and BepiColombo (glancing blow). The flank of the CME may reach Europa Clipper at 2025-06-16T04:00Z and BepiColombo at 2025-06-11T02:00Z (plus minus 7 hours). 
+
+Links to the movies of the modeled event (includes CME: 2025-06-10T06:36:00-CME-001):
+
+(a) 2 AU outer boundary
+http://iswa.gsfc.nasa.gov/downloads/20250610_122900_2.0_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_122900_2.0_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_122900_2.0_ENLIL_CONE_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_122900_2.0_ENLIL_CONE_Bepi_timeline.gif
+
+(b) 5.5 AU outer boundary
+http://iswa.gsfc.nasa.gov/downloads/20250610_122900_5.5_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_122900_5.5_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250610_122900_5.5_ENLIL_CONE_EuropaClippr_timeline.gif
+
+
+## Notes: 
+
+
+SCORE CME typification system:
+S-type: CMEs with speeds less than 500 km/s
+C-type: Common 500-999 km/s
+O-type: Occasional 1000-1999 km/s
+R-type: Rare 2000-2999 km/s
+ER-type: Extremely Rare >3000 km/s
+
+
+
+
+[2025-06-16 12:21:45.988043100 UTC] CME: 2025-06-10T02:20Z
+
+## Community Coordinated Modeling Center Database Of Notifications, Knowledge, Information ( CCMC DONKI )
+## Message Type: Space Weather Notification - CMEs (BepiColombo, Mars)
+##
+## Message Issue Date: 2025-06-10T02:20:50Z
+## Message ID: 20250610-AL-001
+##
+## Disclaimer: NOAA's Space Weather Prediction Center is the United States Government official source for space weather forecasts. This "Experimental Research Information" consists of preliminary NASA research products and should be interpreted and used accordingly.
+
+
+## Summary:
+
+Multiple CMEs have been detected as follows:
+1: C-type CME detected by STEREO A / GOES / SOHO. 
+
+Start time of the event: 2025-06-09T15:12Z.
+
+Estimated speed: ~948 km/s.
+
+Estimated opening half-angle: 22 deg.
+
+Direction (lon./lat.): -95/36 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-09T15:12:00-CME-001
+
+2: C-type CME detected by STEREO A / GOES / SOHO. 
+
+Start time of the event: 2025-06-09T21:00Z.
+
+Estimated speed: ~615 km/s.
+
+Estimated opening half-angle: 16 deg.
+
+Direction (lon./lat.): -90/27 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-09T21:00:00-CME-001
+
+Based on preliminary analysis by the Moon to Mars Space Weather Analysis Office and heliospheric modeling carried out at NASA Community Coordinated Modeling Center, it is estimated that the CMEs may impact BepiColombo (glancing blow) and Mars (glancing blow).  The flank of the CMEs will reach BepiColombo at 2025-06-10T09:00Z and Mars at 2025-06-14T21:00Z (plus minus 7 hours). 
+
+Links to the movies of the modeled event (includes CMEs: 2025-06-09T15:12:00-CME-001, 2025-06-09T21:00:00-CME-001):
+
+http://iswa.gsfc.nasa.gov/downloads/20250609_185700_2.0_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250609_185700_2.0_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250609_185700_2.0_ENLIL_CONE_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250609_185700_2.0_ENLIL_CONE_Bepi_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250609_185700_2.0_ENLIL_CONE_Mars_timeline.gif
+
+
+## Notes: 
+
+
+SCORE CME typification system:
+S-type: CMEs with speeds less than 500 km/s
+C-type: Common 500-999 km/s
+O-type: Occasional 1000-1999 km/s
+R-type: Rare 2000-2999 km/s
+ER-type: Extremely Rare >3000 km/s
+
+
+
+
+[2025-06-16 12:21:47.348632900 UTC] CME: 2025-06-09T02:18Z
+
+## Community Coordinated Modeling Center Database Of Notifications, Knowledge, Information ( CCMC DONKI )
+## Message Type: Space Weather Notification - CME (BepiColombo)
+##
+## Message Issue Date: 2025-06-09T02:18:39Z
+## Message ID: 20250609-AL-001
+##
+## Disclaimer: NOAA's Space Weather Prediction Center is the United States Government official source for space weather forecasts. This "Experimental Research Information" consists of preliminary NASA research products and should be interpreted and used accordingly.
+
+
+## Summary:
+
+C-type CME detected by STEREO A / GOES / SOHO. 
+
+Start time of the event: 2025-06-08T21:36Z.
+
+Estimated speed: ~915 km/s.
+
+Estimated opening half-angle: 16 deg.
+
+Direction (lon./lat.): -122/31 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-08T21:36:00-CME-001
+
+Based on preliminary analysis by the Moon to Mars Space Weather Analysis Office and heliospheric modeling carried out at NASA Community Coordinated Modeling Center, it is estimated that the CME may impact BepiColombo (glancing blow).  The flank of the CME may reach BepiColombo at 2025-06-09T14:00Z (plus minus 7 hours). 
+
+Links to the movies of the modeled event (includes CME: 2025-06-08T21:36:00-CME-001):
+
+http://iswa.gsfc.nasa.gov/downloads/20250609_011600_2.0_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250609_011600_2.0_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250609_011600_2.0_ENLIL_CONE_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250609_011600_2.0_ENLIL_CONE_Bepi_timeline.gif
+
+
+## Notes: 
+
+
+SCORE CME typification system:
+S-type: CMEs with speeds less than 500 km/s
+C-type: Common 500-999 km/s
+O-type: Occasional 1000-1999 km/s
+R-type: Rare 2000-2999 km/s
+ER-type: Extremely Rare >3000 km/s
+
+
+
+
+[2025-06-16 12:21:48.659881200 UTC] CME: 2025-06-06T19:58Z
+
+## Community Coordinated Modeling Center Database Of Notifications, Knowledge, Information ( CCMC DONKI )
+## Message Type: Space Weather Notification - CME (Psyche, OSIRIS-APEX, Mars, Missions Near Earth)
+##
+## Message Issue Date: 2025-06-06T19:58:54Z
+## Message ID: 20250606-AL-002
+##
+## Disclaimer: NOAA's Space Weather Prediction Center is the United States Government official source for space weather forecasts. This "Experimental Research Information" consists of preliminary NASA research products and should be interpreted and used accordingly.
+
+
+## Summary:
+
+C-type CME detected by STEREO A / GOES / SOHO. 
+
+Start time of the event: 2025-06-06T11:12Z.
+
+Estimated speed: ~758 km/s.
+
+Estimated opening half-angle: 39 deg.
+
+Direction (lon./lat.): -37/25 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-06T11:12:00-CME-001
+
+Based on preliminary analysis by the Moon to Mars Space Weather Analysis Office and heliospheric modeling carried out at NASA Community Coordinated Modeling Center, it is estimated that this CME may affect Psyche (glancing blow), OSIRIS-APEX, and Mars (glancing blow). The leading edge of the CME may reach OSIRIS-APEX at 2025-06-08T01:47Z. The flank of the CME may reach Psyche at 2025-06-12T12:00Z and Mars at 2025-06-09T22:00Z (plus minus 7 hours). 
+
+The simulation also indicates that the CME may have a glancing blow at NASA missions near Earth. Simulations indicate that the flank of the CME will reach NASA missions near Earth at about 2025-06-08T21:00Z (plus minus 7 hours). The roughly estimated expected range of the maximum Kp index is 5-7 (minor to strong).
+   
+  
+Links to the movies of the modeled event (includes CME: 2025-06-06T11:12:00-CME-001):
+
+(a) 2 AU outer boundary
+http://iswa.gsfc.nasa.gov/downloads/20250606_154000_2.0_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250606_154000_2.0_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250606_154000_2.0_ENLIL_CONE_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250606_154000_2.0_ENLIL_CONE_Mars_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250606_154000_2.0_ENLIL_CONE_Osiris_timeline.gif
+
+(b) 5.5 AU outer boundary
+http://iswa.gsfc.nasa.gov/downloads/20250606_154000_5.5_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250606_154000_5.5_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250606_154000_5.5_ENLIL_CONE_Psyche_timeline.gif
+
+
+## Notes: 
+
+
+SCORE CME typification system:
+S-type: CMEs with speeds less than 500 km/s
+C-type: Common 500-999 km/s
+O-type: Occasional 1000-1999 km/s
+R-type: Rare 2000-2999 km/s
+ER-type: Extremely Rare >3000 km/s
+
+
+
+
+[2025-06-16 12:21:49.961173600 UTC] CME: 2025-06-05T13:11Z
+
+## Community Coordinated Modeling Center Database Of Notifications, Knowledge, Information ( CCMC DONKI )
+## Message Type: Space Weather Notification - CME (Europa Clipper, BepiColombo, Mars)
+##
+## Message Issue Date: 2025-06-05T13:11:06Z
+## Message ID: 20250605-AL-001
+##
+## Disclaimer: NOAA's Space Weather Prediction Center is the United States Government official source for space weather forecasts. This "Experimental Research Information" consists of preliminary NASA research products and should be interpreted and used accordingly.
+
+
+## Summary:
+
+O-type CME detected by STEREO A / GOES / SOHO. 
+
+Start time of the event: 2025-06-05T08:12Z.
+
+Estimated speed: ~1033 km/s.
+
+Estimated opening half-angle: 24 deg.
+
+Direction (lon./lat.): -115/44 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-05T08:12:00-CME-001
+
+Based on preliminary analysis by the Moon to Mars Space Weather Analysis Office and heliospheric modeling carried out at NASA Community Coordinated Modeling Center, it is estimated that the CME may impact Europa Clipper (glancing blow), BepiColombo (glancing blow), and Mars (glancing blow).  The flank of the CME will reach Europa Clipper at 2025-06-08T06:00Z, BepiColombo at 2025-06-06T00:00Z, and Mars at 2025-06-07T20:00Z (plus minus 7 hours). 
+
+Links to the movies of the modeled event (includes CME: 2025-06-05T08:12:00-CME-001):
+
+(a) 2 AU outer boundary
+http://iswa.gsfc.nasa.gov/downloads/20250605_113900_2.0_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250605_113900_2.0_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250605_113900_2.0_ENLIL_CONE_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250605_113900_2.0_ENLIL_CONE_Bepi_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250605_113900_2.0_ENLIL_CONE_Mars_timeline.gif
+
+(b) 5.5 AU outer boundary
+http://iswa.gsfc.nasa.gov/downloads/20250605_113900_5.5_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250605_113900_5.5_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250605_113900_5.5_ENLIL_CONE_EuropaClippr_timeline.gif
+
+
+## Notes: 
+
+
+SCORE CME typification system:
+S-type: CMEs with speeds less than 500 km/s
+C-type: Common 500-999 km/s
+O-type: Occasional 1000-1999 km/s
+R-type: Rare 2000-2999 km/s
+ER-type: Extremely Rare >3000 km/s
+
+
+
+
+[2025-06-16 12:21:51.372012500 UTC] CME: 2025-06-02T01:49Z
+
+## Community Coordinated Modeling Center Database Of Notifications, Knowledge, Information ( CCMC DONKI )
+## Message Type: Space Weather Notification - CME (Juice, Parker Solar Probe)
+##
+## Message Issue Date: 2025-06-02T01:49:41Z
+## Message ID: 20250602-AL-001
+##
+## Disclaimer: NOAA's Space Weather Prediction Center is the United States Government official source for space weather forecasts. This "Experimental Research Information" consists of preliminary NASA research products and should be interpreted and used accordingly.
+
+
+## Summary:
+
+C-type CME detected by STEREO A / GOES / SOHO. 
+
+Start time of the event: 2025-06-01T18:00Z.
+
+Estimated speed: ~609 km/s.
+
+Estimated opening half-angle: 19 deg.
+
+Direction (lon./lat.): 100/-26 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-06-01T18:00:00-CME-001
+
+Based on preliminary analysis by the Moon to Mars Space Weather Analysis Office and heliospheric modeling carried out at NASA Community Coordinated Modeling Center, it is estimated that the CME may impact Juice (glancing blow) and Parker Solar Probe (glancing blow).  The flank of the CME may reach Juice at 2025-06-04T15:00Z and Parker Solar Probe at 2025-06-03T06:00Z (plus minus 7 hours). 
+
+Links to the movies of the modeled event (includes CME: 2025-06-01T18:00:00-CME-001):
+
+http://iswa.gsfc.nasa.gov/downloads/20250601_225200_2.0_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250601_225200_2.0_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250601_225200_2.0_ENLIL_CONE_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250601_225200_2.0_ENLIL_CONE_PSP_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250601_225200_2.0_ENLIL_CONE_Juice_timeline.gif
+
+
+## Notes: 
+
+
+SCORE CME typification system:
+S-type: CMEs with speeds less than 500 km/s
+C-type: Common 500-999 km/s
+O-type: Occasional 1000-1999 km/s
+R-type: Rare 2000-2999 km/s
+ER-type: Extremely Rare >3000 km/s
+
+
+
+
+[2025-06-16 12:21:52.636288400 UTC] CME: 2025-06-01T02:18Z
+
+## Community Coordinated Modeling Center Database Of Notifications, Knowledge, Information ( CCMC DONKI )
+## Message Type: Space Weather Notification - CME (Psyche, OSIRIS-APEX, STEREO A, Missions Near Earth)
+##
+## Message Issue Date: 2025-06-01T02:18:26Z
+## Message ID: 20250601-AL-001
+##
+## Disclaimer: NOAA's Space Weather Prediction Center is the United States Government official source for space weather forecasts. This "Experimental Research Information" consists of preliminary NASA research products and should be interpreted and used accordingly.
+
+
+## Summary:
+
+C-type CME detected by STEREO A / GOES / SOHO. 
+
+Start time of the event: 2025-05-31T14:23Z.
+
+Estimated speed: ~680 km/s.
+
+Estimated opening half-angle: 35 deg.
+
+Direction (lon./lat.): 0/4 in Heliocentric Earth Equatorial coordinates.
+
+Activity ID: 2025-05-31T14:23:00-CME-001
+
+Based on preliminary analysis by the Moon to Mars Space Weather Analysis Office and heliospheric modeling carried out at NASA Community Coordinated Modeling Center, it is estimated that this CME may affect Psyche (glancing blow), OSIRIS-APEX, and STEREO A (glancing blow).  The leading edge of the CME will reach OSIRIS-APEX at 2025-06-02T01:42Z plus minus 7 hours). The flank of the CME will reach Psyche at 2025-06-08T00:00Z and OSIRIS-APEX at 2025-06-02T01:42Z, and STEREO A at 2025-06-02T20:00Z (plus minus 7 hours). 
+
+The simulation also indicates that the CME may impact NASA missions near Earth. Simulations indicate that the leading edge of the CME will reach NASA missions near Earth at about 2025-06-02T22:03Z (plus minus 7 hours). The roughly estimated expected range of the maximum Kp index is 5-7 (minor to strong).
+   
+  
+Links to the movies of the modeled event (includes CME: 2025-05-31T14:23:00-CME-001):
+
+(a) 2 AU outer boundary
+http://iswa.gsfc.nasa.gov/downloads/20250531_192900_2.0_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250531_192900_2.0_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250531_192900_2.0_anim.tim-den-Stereo_A.gif
+http://iswa.gsfc.nasa.gov/downloads/20250531_192900_2.0_anim.tim-vel-Stereo_A.gif
+http://iswa.gsfc.nasa.gov/downloads/20250531_192900_2.0_ENLIL_CONE_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250531_192900_2.0_ENLIL_CONE_STA_timeline.gif
+http://iswa.gsfc.nasa.gov/downloads/20250531_192900_2.0_ENLIL_CONE_Osiris_timeline.gif
+
+(b) 5.5 AU outer boundary
+http://iswa.gsfc.nasa.gov/downloads/20250531_192900_5.5_anim.tim-den.gif
+http://iswa.gsfc.nasa.gov/downloads/20250531_192900_5.5_anim.tim-vel.gif
+http://iswa.gsfc.nasa.gov/downloads/20250531_192900_5.5_ENLIL_CONE_Psyche_timeline.gif
+
+
+## Notes: 
+
+
+SCORE CME typification system:
+S-type: CMEs with speeds less than 500 km/s
+C-type: Common 500-999 km/s
+O-type: Occasional 1000-1999 km/s
+R-type: Rare 2000-2999 km/s
+ER-type: Extremely Rare >3000 km/s
+
+
+
+

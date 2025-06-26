@@ -1,0 +1,15 @@
+[package]
+name = "solar_shield"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.5.4", features = ["derive"] }
+dotenv = "0.15"
+reqwest = { version = "0.12", features = ["json", "gzip", "blocking"] }
+serde = { version = "1.0", features = ["derive"] }
+tokio = { version = "1", features = ["full"] }
+crossterm = "0.27"
+chrono = "0.4"
+colored = "2"
+serde_json = "1.0"
